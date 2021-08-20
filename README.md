@@ -1,11 +1,13 @@
 # SmartLogicSkillAssessment
 Skill Assessment completed for SmartLogic Internship Program
 
+The purpose of this assessment is to take data from files that are formatted in 3 different styles, reformat them, and then sort them in 3 possible ways.
+
 Chosen language was Python3.
 
 This script can be ran from the command line.
 
-In order to do so, when inside of the directory in you CLI, input the following arguments:
+In order to do so, when inside of the directory in your CLI, input the following arguments:
 
 python assessment.py [list of file names]
 
